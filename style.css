@@ -6,6 +6,11 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+span {
+    text-decoration: underline;
+    background-color: white;
+}
+
 .descricao {
     font-family: monospace;
 }
