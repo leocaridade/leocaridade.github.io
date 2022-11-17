@@ -11,5 +11,21 @@ h1 {
 }
 
 .resolucao {
+    font-size: 24px;
+}
+
+.organizacao {
+    font-size: 22px;
+}
+
+.empatia {
     font-size: 20px;
+}
+
+.confianca {
+    font-size: 18px;
+}
+
+.humildade {
+    font-size: 16px;
 }
