@@ -10,6 +10,10 @@ img {
     border-radius: 50%;
 }
 
+.foto {
+    text-align: center;
+}
+
 span {
     text-decoration: underline;
     background-color: white;
