@@ -4,14 +4,13 @@ body {
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 img {
     border-radius: 50%;
-}
-
-.foto {
-    text-align: center;
+    margin: auto;
+    display: block;
 }
 
 span {
@@ -21,6 +20,8 @@ span {
 
 .descricao {
     font-family: monospace;
+    text-align: center;
+    font-size: 18px;
 }
 
 .resolucao {
